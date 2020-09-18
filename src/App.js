@@ -142,7 +142,7 @@ export const App = () => {
                       />
                   </FormControl>
               </Grid>
-              <Grid item>
+              <Grid style={{alignSelf: "center"}} item>
                   <FormControl variant="outlined" className={classes.formControl}>
                       <Button type="submit" variant="contained" color="primary">
                       Submit
@@ -157,11 +157,11 @@ export const App = () => {
       </Grid>
       <Grid item>
         <Grid container justify="center" style={{display: photos.length > 1 ? 'grid' : 'none'}}>
-          <Grid item>
+          <Grid item >
             <FormControl variant="outlined" className={classes.formControl}>
-                <Button variant="contained" color="default" onClick={submitHandler}>
+              <Button variant="contained" color="default" onClick={submitHandler}>
                 Load more...
-                </Button>
+              </Button>
             </FormControl> 
           </Grid>
         </Grid>    
