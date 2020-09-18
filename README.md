@@ -3,10 +3,12 @@ You need to clone repo and execute folowing commands:
 
 For yarn
 >$ yarn 
+
 >$ yarn start
 
 For npm
 >$ npm i
+
 >$ npm start
 
 ### Link to hosted web site https://peaceful-ritchie-04050e.netlify.app/
