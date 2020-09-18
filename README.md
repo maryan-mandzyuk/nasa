@@ -13,4 +13,4 @@ For npm
 
 ### Link to hosted web site https://peaceful-ritchie-04050e.netlify.app/
 
-If you wont to see a lot of images chose Curiosity, Mast camera, 1246 or 1244 sol
+If you want to see a lot of images chose Curiosity, Mast camera, 1246 or 1244 sol
